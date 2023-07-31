@@ -1,0 +1,19 @@
+h2{
+background-color: antiquewhite;
+border-style: solid;
+border-width: 20px;
+border-color: fuchsia;
+margin: 30px 15px;
+padding: 20px;
+}
+p{
+    color: rgb(238, 97, 196);
+    border-style: solid;
+    border-width: 20px;
+    border-top-color: rgb(87, 179, 221);
+    border-bottom-color: rgb(110, 230, 164);
+    border-left-color: rgb(238, 203, 116);
+    margin: 30px 15px;
+    padding: 20px;
+
+}
